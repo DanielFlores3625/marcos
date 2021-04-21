@@ -1,0 +1,50 @@
+body{
+	background:#CAB34C;
+}
+h1 {
+    background:#F7B186;
+    font-family:Courier New;
+    font-size: 50px;
+   }
+   h2 {
+    background:#73E5C1;
+    font-family:Courier New;
+    font-size: 50px;
+   }
+   h3 {
+    background:#73E5C1;
+    font-family:Courier New;
+    font-size: 50px;
+   }
+   h4 {
+    background:#73E5C1;
+    font-family:Courier New;
+   font-size: 50px;
+   }
+   h5 {
+    background:#73E5C1;
+    font-family:Courier New;
+    font-size: 50px;
+       }
+   h6 {
+    background:#73E5C1;
+    font-family:Courier New;
+    font-size: 50px;
+   }
+   h7 {
+    background:#73E5C1;
+    font-family:Courier New;
+    font-size: 50px;
+   }
+   h8 {
+    background:#73E5C1;
+    font-family:Courier New;
+    font-size: 50px;
+   }
+ p {
+   font-family:arial;
+   font-size: 25px;
+   color: #000000;
+   line-height: 18px;
+   margin-bottom: 20px;
+}
